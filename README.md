@@ -1,4 +1,4 @@
-### QuizSemaforo
+# QuizSemaforo
 ## Carlos Felipe Montoya - 1535038
 ## Actividad 1
 Para evidenciar que hay más escritores que lectores, establecemos una probabilidad del 30% de que aparezca un lector. Similarmente
